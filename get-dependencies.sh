@@ -14,6 +14,7 @@ pacman -Syu --noconfirm \
     libheif       \
     libmypaint    \
     lxqt-qtplugin \
+    mariadb-libs  \
     poppler-qt6   \
     qt6ct
 
