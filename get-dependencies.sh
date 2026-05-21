@@ -13,6 +13,7 @@ pacman -Syu --noconfirm \
     libfbclient     \
     libheif         \
     libmypaint      \
+    libproxy        \
     lxqt-qtplugin   \
     mariadb-libs    \
     poppler-qt6     \
