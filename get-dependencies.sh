@@ -10,6 +10,7 @@ pacman -Syu --noconfirm \
     krita         \
     kseexpr       \
     kvantum       \
+    libheif       \
     libmypaint    \
     lxqt-qtplugin \
     qt6ct
