@@ -13,6 +13,7 @@ export DESKTOP=/usr/share/applications/org.kde.krita.desktop
 export STARTUPWMCLASS=
 export DEPLOY_QT=1
 export QT_DIR=qt6
+export DEPLOY_QML=1
 
 # Deploy dependencies
 quick-sharun /usr/bin/krita* \
