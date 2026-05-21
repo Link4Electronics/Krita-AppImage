@@ -16,12 +16,13 @@ export QT_DIR=qt6
 
 # Deploy dependencies
 quick-sharun /usr/bin/krita* \
-  /usr/lib/kritaplugins \
+  /usr/lib/kritaplugins/krita*.so* \
   /usr/lib/libkrita*.so* \
   /usr/share/color-schemes \
   /usr/share/color/icc/krita \
   /usr/share/krita* \
-  /usr/lib/qt6/plugins/imageformats
+  /usr/lib/qt6/plugins/imageformats/lib*.so* \
+  /usr/lib/qt6/plugins/sqldrivers/lib*.so*
 
 # Additional changes can be done in between here
 
