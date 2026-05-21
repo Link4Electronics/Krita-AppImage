@@ -23,7 +23,8 @@ quick-sharun /usr/bin/krita* \
   /usr/share/color/icc/krita \
   /usr/share/krita* \
   /usr/lib/qt6/plugins/imageformats/lib*.so* \
-  /usr/lib/qt6/plugins/sqldrivers/lib*.so*
+  /usr/lib/qt6/plugins/sqldrivers/lib*.so* \
+  /usr/lib/libproxy/libpxbackend-1.0.so
 
 # Additional changes can be done in between here
 
