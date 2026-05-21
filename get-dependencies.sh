@@ -13,6 +13,7 @@ pacman -Syu --noconfirm \
     libheif       \
     libmypaint    \
     lxqt-qtplugin \
+    poppler-qt6   \
     qt6ct
 
 echo "Installing debloated packages..."
