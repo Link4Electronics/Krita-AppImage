@@ -16,7 +16,8 @@ pacman -Syu --noconfirm \
     lxqt-qtplugin \
     mariadb-libs  \
     poppler-qt6   \
-    qt6ct
+    qt6ct         \
+    unixodbc
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
