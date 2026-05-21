@@ -8,7 +8,9 @@ echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm \
     krita         \
+    kseexpr       \
     kvantum       \
+    libmypaint    \
     lxqt-qtplugin \
     qt6ct
 
