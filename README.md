@@ -1,10 +1,10 @@
 <div align="center">
 
-# Krita-AppImage 🐧
+# Krita-AppImage-Enhanced 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Krita-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Krita-AppImage/releases/latest)
-[![CI Build Status](https://github.com/pkgforge-dev/Krita-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Krita-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Krita-AppImage)](https://github.com/pkgforge-dev/Krita-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Krita-AppImage-Enhanced/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Krita-AppImage-Enhanced/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/Krita-AppImage-Enhanced/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Krita-AppImage-Enhanced/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Krita-AppImage-Enhanced)](https://github.com/pkgforge-dev/Krita-AppImage-Enhanced/releases/latest)
 
 <p align="center">
   <img src="https://invent.kde.org/graphics/krita/-/raw/master/pics/krita-base.svg?ref_type=heads" width="128" />
@@ -13,7 +13,7 @@
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/Krita-AppImage/releases/latest) | [Click here](https://invent.kde.org/graphics/krita) |
+| [Click here](https://github.com/pkgforge-dev/Krita-AppImage-Enhanced/releases/latest) | [Click here](https://invent.kde.org/graphics/krita) |
 
 </div>
 
